@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!--META DATA-->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+    <meta name="description" content= "Since 2018, Karen has been Registered Massage Therapist and in good standing the College of Massage Therapists." />
+    <meta name="keywords" content="Massage Therapy, Therapist, Body Sculpt, Woodtherapy, Reduction Integral, Treatment, Buttock Lift, Karen Miranda, PureSculpt">
+    <!--META DATA Open Graph-->
+    <meta property="og:title" content="Miranda Massage Therapy" />
+    <meta property="description" content="Since 2018, Karen has been Registered Massage Therapist and in good standing the College of Massage Therapists." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://mirandamassagetherapy.ca/" />
+    <meta property="og:image" content="https://mirandamassagetherapy.ca/images/a-place-of-Wellness.jpg" />
+    <link rel="icon" href="https://mirandamassagetherapy.ca/images/favicon.png">
+    <!--ICONS-->
+    <link href='https://unpkg.com/boxicons@2.0.5/css/boxicons.min.css' rel='stylesheet'>
+    <!--FONTS-->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+    <!-- Link Swiper's CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/swiper/css/swiper.min.css">
+    <link rel="stylesheet" href="css/swiper.css">
+    <!--CSS-->
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/style.css">  
+    <title>Miranda Massage Therapy</title>
+</head>
+<body>
+    <header>
+        <div class="main-container">
+            <div class="header-container">
+                <figure class="header-container-logo">
+                    <a href="/"><img loading="lazy" src="https://mirandamassagetherapy.ca/images/miranda_massage_therapy_logo.png" alt="miranda_massage_therapy_logo"></a>
+                </figure>
+                <nav class="menu-desktop">
+                    <ul>
+                        <li><a href="/">Home</a></li>
+                        <li><a href="about.html">About</a></li>
+                        <li><a href="services.html">Services</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                </nav>
+                <div class="header-container-networks contact-container-home-text">
+                    <ul>
+                        <li><a href="https://www.facebook.com/Miranda-Massage-Therapy-2076339062453409/" target="_blank"><i class='bx bxl-facebook-circle' ></i></a></li>
+                        <li><a href="https://www.instagram.com/karen.rmt/" target="_blank"><i class='bx bxl-instagram' ></i></a></li>
+                    </ul>
+                </div>
+                <div class="header-container-menu">
+                    <span class="icon-menu" id="menu-btn">
+                        <i class='bx bx-menu'></i>
+                    </span>
+                </div>
+            </div>
+        </div>
+        
+        <nav class="menu menu-mobile" id="menu">
+            <figure class="header-container-logo">
+                <a href="/"><img loading="lazy" src="https://mirandamassagetherapy.ca/images/miranda_massage_therapy_logo.png" alt="miranda_massage_therapy_logo"></a>
+            </figure>
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section>
+        <div class="main-container">
+            <div class="banner-container">
+                <figure class="banner-container-image">
+                </figure>
+                <article class="banner-container-text-button">
+                    <span class="text">
+                        <h1 class="titles">Rejuvinate your body</h1>
+                    </span>
+                    <span class="button">
+                        <a href="https://www.fresha.com/karen-miranda-hxjr4gy7/booking" target="_blank">Book an appointment</a>
+                    </span>
+                </article>
+            </div>
+        </div>
+    </section>
+    <section class="about-section-home">
+        <div class="main-container">
+            <div class="about-container-home">
+                <figure class="about-container-home-image">
+                    <img loading="lazy" src="https://mirandamassagetherapy.ca/images/a-place-of-Wellness.jpg" alt="">
+                </figure>
+                 <div class="about-container-home-text">
+                    <h2 class="titles">A place of Wellness</h2>
+                    <p>Since 2018, Karen has been Registered Massage Therapist and in good standing the College of
+                        Massage Therapists.</p>
+                        <div class="about-container-home-button button">
+                            <a href="about.html">Read more</a>
+                        </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="prices-section-home">
+        <div class="main-container">
+            <div class="prices-container-home">
+                <div class="prices-container-home-title">
+                    <h3 class="titles">Prices and Fee Information</h3>
+                </div>
+                <!-- Swiper -->
+  <div class="swiper-container">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <div class="prices-container-home-massage-items">
+            <span class="item-title">Massage Therapy Treatment</span>
+            <span class="item-minutes">30 minutes</span>
+            <span class="item-price">$60</span>
+        </div>
+      </div>
+      <div class="swiper-slide">
+        <div class="prices-container-home-massage-items">
+            <span class="item-title">Massage Therapy Treatment</span>
+            <span class="item-minutes">45 minutes</span>
+            <span class="item-price">$75</span>
+        </div>
+      </div>
+      <div class="swiper-slide">
+        <div class="prices-container-home-massage-items">
+            <span class="item-title">Massage Therapy Treatment</span>
+            <span class="item-minutes">60 minutes</span>
+            <span class="item-price">$90</span>
+        </div>
+      </div>
+      <div class="swiper-slide">
+        <div class="prices-container-home-massage-items">
+            <span class="item-title">Massage Therapy Treatment</span>
+            <span class="item-minutes">90 minutes</span>
+            <span class="item-price">$125</span>
+        </div>
+      </div>
+    </div>
+    <!-- Add Pagination -->
+    <div class="swiper-pagination"></div>
+  </div>
+                <div class="prices-container-home-massage-wrapper">
+                    <div class="prices-container-home-massage-items hidden">
+                        <span class="item-title">Massage Therapy Treatment</span>
+                        <span class="item-minutes">30 minutes</span>
+                        <span class="item-price">$60</span>
+                    </div>
+                    <div class="prices-container-home-massage-items hidden">
+                        <span class="item-title">Massage Therapy Treatment</span>
+                        <span class="item-minutes">45 minutes</span>
+                        <span class="item-price">$75</span>
+                    </div>
+                    <div class="prices-container-home-massage-items hidden">
+                        <span class="item-title">Massage Therapy Treatment</span>
+                        <span class="item-minutes">60 minutes</span>
+                        <span class="item-price">$90</span>
+                    </div>
+                    <div class="prices-container-home-massage-items hidden">
+                        <span class="item-title">Massage Therapy Treatment</span>
+                        <span class="item-minutes">90 minutes</span>
+                        <span class="item-price">$125</span>
+                    </div>
+                </div>
+                <div class="prices-container-home-body-sculpt">
+                    <div class="prices-container-home-body-sculpt-text">
+                        <h4 class="body-sculpt-title">Body Sculpt</h4>
+                        <p class="body-sculpt-note">Note: Every treatment is customized 
+                            according to your body type.</p>
+                    </div>
+                    <div class="prices-container-home-massage-wrapper body-sculpt-items">
+                        <div class="prices-container-home-massage-items">
+                            <span class="item-title">Reduction Integral Treatment</span>
+                            <span class="item-minutes">1 session</span>
+                            <span class="item-price">$105</span>
+                        </div>
+                        <div class="prices-container-home-massage-items">
+                            <span class="item-title">Reduction Integral Treatment</span>
+                            <span class="item-minutes">Premium Package</span>
+                            <span class="item-price">$960</span>
+                        </div>
+                        <div class="prices-container-home-massage-items">
+                            <span class="item-title">Buttock Lift Integral Treatment</span>
+                            <span class="item-minutes">Premium Package</span>
+                            <span class="item-price">$790</span>
+                        </div>
+                        <div class="prices-container-home-massage-items">
+                            <span class="item-title">Woodtherapy</span>
+                            <span class="item-minutes">One body area</span>
+                            <span class="item-price">$60</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="prices-container-home-button button">
+                    <a href="services.html">Show more</a>
+                </div>
+            </div>
+
+        </div>
+    </section>
+    <section class="cta">
+        <div class="main-container">
+            <div class="cta-container">
+                <div class="cta-text">
+                    <span class="titles">Reserve now</span>
+                </div>
+                <div class="cta-container-home-button button">
+                    <a href="https://www.fresha.com/karen-miranda-hxjr4gy7/booking" target="_blank">Book an appointment</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="contact-section-home">
+        <div class="main-container">
+            <div class="contact-container-home">
+                <div class="contact-container-home-text">
+                    <h5 class="titles">Contact</h5>
+                    <ul>
+                        <li><i class='bx bx-id-card'></i>Karen Miranda RMT</li>
+                        <li><i class='bx bx-map'></i>65 Ranchdale Drive (rear Entrance)
+                            <span class="block">Hamilton, ON L8V 2L9</span></li>
+                        <li><i class='bx bx-phone'></i>289-887-3264</li>
+                        <li><i class='bx bx-message-alt-detail'></i>karenjrmt@hotmail.com</li>
+                        <li><a href="https://www.facebook.com/Miranda-Massage-Therapy-2076339062453409/" target="_blank"><i class='bx bxl-facebook-circle' ></i></a><a href="https://www.instagram.com/karen.rmt/" target="_blank"><i class='bx bxl-instagram' ></i></a></li>
+                    </ul>
+
+                </div>
+                <div class="contact-container-home-form">
+                    <form method="post" class="contact-form">
+                    <input type="text" name="name" id="name" placeholder="Name *" required>
+                    <input type="email" name="email" id="email" placeholder="Email Address *" required>
+                     <textarea name="msg" id="msg" placeholder="Write message *" required></textarea>
+                    <input class="button" type="button" name="send" id="send" value="Submit message">
+                    </form>
+                    <div id="alert" class="hide">
+                    </div>
+                </div>
+                    
+
+                <div class="contact-container-home-map">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2907.471155946429!2d-79.85794658445873!3d43.220580379138475!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882c9a4bd907803d%3A0x9ca6409b697ee47a!2s65%20Ranchdale%20Dr%2C%20Hamilton%2C%20ON%20L8V%202L9%2C%20Canad%C3%A1!5e0!3m2!1ses-419!2sco!4v1589497738398!5m2!1ses-419!2sco" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                </div>
+            </div>
+        </div>
+    </section>
+    <footer>
+        <div class="main-container">
+            <div class="footer-container">
+                <div class="footer-container-networks contact-container-home-text">
+                    <ul>
+                        <li><a href="https://www.facebook.com/Miranda-Massage-Therapy-2076339062453409/" target="_blank"><i class='bx bxl-facebook-circle' ></i></a></li>
+                        <li><a href="https://www.instagram.com/karen.rmt/" target="_blank"><i class='bx bxl-instagram' ></i></a></li>
+                    </ul>
+                </div>
+                <div class="footer-container-rights">
+                    <p>Copyright 2020. Miranda Massage Therapy. <span class="block">All Rights Reserved.</span></p>
+                </div>
+                <div class="footer-container-by">
+                    <p>By <a href="https://sevenartzpublicidad.com/" target="_blank ">Seven Artz Publicidad</a></p>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="js/menu.js"></script>
+    <script src="js/send.js"></script>
+     <!-- Swiper JS -->
+     <script src="https://unpkg.com/swiper/js/swiper.min.js"></script>
+
+  <!-- Initialize Swiper -->
+  <script>
+    var swiper = new Swiper('.swiper-container', {
+      spaceBetween: 30,
+      pagination: {
+        el: '.swiper-pagination',
+        clickable: true,
+      },
+    });
+  </script>
+</body>
+</html>
