@@ -42,12 +42,14 @@
 
 
 $('#send').click(function(){
+    $('#send').prop('disabled', true);
     $.ajax({
         url: 'send.php',
         type: 'POST',
         data: $('.contact-form').serialize()
     })
     .done(function(res){
+        $('#send').prop('disabled', false);
         $('#alert').html(res).removeClass('hide');
         $('.contact-form').trigger('reset');
     })
