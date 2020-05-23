@@ -20,15 +20,15 @@ $email = validar_data($_POST['email']);
 $msg = validar_data($_POST['msg']);
 
 // Datos para el correo
-$emailDestino = 'contact@mirandamassagetherapy.ca';
+$emailDestino = 'info@mirandamassagetherapy.ca';
 $asunto = "Email from website";
 
 $message = "From: " . $name . "\n";
 $message .= "Email: " . $email . "\n";
 $message .= "Message: " . $msg;
 
-$header = "From: contact@mirandamassagetherapy.ca" . "\r\n";
-$header .= "Reply-To: contact@mirandamassagetherapy.ca" . "\r\n";
+$header = "From: info@mirandamassagetherapy.ca" . "\r\n";
+$header .= "Reply-To: info@mirandamassagetherapy.ca" . "\r\n";
 $header .= "X-Mailer: PHP/" . phpversion();
 
 //Enviando mensaje
