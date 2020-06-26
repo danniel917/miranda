@@ -184,6 +184,8 @@ input.button {
     grid-template-rows: repeat(2, min-content);
     row-gap: 24px;
     margin-bottom: 24px;
+    /* background: red; */
+    /* overflow: hidden; */
 }
 
 
@@ -233,6 +235,7 @@ input.button {
 }
 
 .body-sculpt-items {
+    width: 100%;
     display: grid;
     row-gap: 16px;
 }
@@ -444,7 +447,7 @@ footer {
 }
 
 .contraindications {
-    margin-top: 100px;
+    margin-top: 50px;
 }
 
 .contraindications p,
@@ -576,6 +579,19 @@ a {
     border: 1px solid #dc3545;
 }
 
+.hidden-class {
+    display: none;
+}
+
+.glider-track {
+    width: auto !important;
+}
+
+
+.prices-container-home-massage-wrapper {
+    display: grid;
+    row-gap: 16px;
+}
 
 /*****MEDIA QUERIES*****/
 
